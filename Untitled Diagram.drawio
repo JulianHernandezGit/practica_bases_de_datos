@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T00:43:07.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="e7e9_T8F2qM0jn7uHnaJ" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T00:59:56.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="zT7_3jMjvdv-mOlu8dUT" version="17.4.0" type="github">
   <diagram id="plq7zzqRdH9WjHkZWCGu" name="Page-1">
     <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nbk8JWHK0xCr41TN5WNL-36" value="DATE" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="nbk8JWHK0xCr41TN5WNL-26">
+        <mxCell id="nbk8JWHK0xCr41TN5WNL-36" value="DATE DEFAULT CURRENT_DATE()" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="nbk8JWHK0xCr41TN5WNL-26">
           <mxGeometry x="190" width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -149,7 +149,7 @@
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nbk8JWHK0xCr41TN5WNL-37" value="DATE" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="nbk8JWHK0xCr41TN5WNL-29">
+        <mxCell id="nbk8JWHK0xCr41TN5WNL-37" value="DATE DEFAULT CURRENT_DATE()" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="nbk8JWHK0xCr41TN5WNL-29">
           <mxGeometry x="190" width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
